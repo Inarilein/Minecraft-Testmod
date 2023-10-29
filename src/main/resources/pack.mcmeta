@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "This project is a test mod for Minecraft at version 1.17.1 (Forge) and is designed to expand my understanding and skills in Minecraft modding. The goal is to learn the basics and gain experience that will be useful for developing and releasing more extensive mods in the future.\n\nModID: testmod\n\nLicence: Creative Commons Attribution-NonCommercial 4.0 International License\nCopyright (c) 2023 Inarilein",
+        "pack_format": 7
+    }
+}
