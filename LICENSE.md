@@ -3,7 +3,6 @@
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
 ## You may:
-
 - Share — reproduce and redistribute the material in any format or medium.
 - Edit — remix, modify and build upon the material.
 
