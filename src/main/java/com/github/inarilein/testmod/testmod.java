@@ -22,6 +22,7 @@ import java.util.stream.Collectors;
 public class testmod
 {
     // Directly reference a log4j logger.
+
     private static final Logger LOGGER = LogManager.getLogger();
 
     public testmod() {
