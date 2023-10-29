@@ -5,7 +5,8 @@
 
 **ModID:** testmod
 
-This project is a learning project, for mod development for the game "Minecraft" at version 1.17.1 (Forge), and is designed, to expand my understanding and skills in Minecraft modding. The goal is, to learn the basics, and gain experience. 
+This project is a learning project, for mod development for the game "Minecraft" at version 1.17.1 (Forge), and is designed, to expand my understanding and skills in Minecraft modding.
+The goal is, to learn the basics, and gain experience.
 That will be useful for developing and releasing more mods in the future.
 
 ## Functionalities
